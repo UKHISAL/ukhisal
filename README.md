@@ -18,6 +18,9 @@ Currently serving as a **Ph.D. Research Fellow** at the *University Malaysia Pah
 ---
 
 ## 🔬 Current Research Interests
+- Multifactorial Optimization
+- Metaheuristics Algorithms
+- Research
 - Multi-objective Optimization Algorithms (MOAs)
 - Machine Learning and Deep Learning Models
 - Intelligent Automation and Adaptive Systems
